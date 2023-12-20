@@ -28,7 +28,7 @@ export const footerData = [
         blank: false,
       },
       {
-        name: "Team building in city",
+        name: "Outing Specials",
         link: "/product/team-building",
         blank: false,
       },
